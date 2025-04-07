@@ -2,11 +2,11 @@
   "c2array": true,
   "size": [7, 1, 2],
   "data": [
-    [["¡No puede ser! ¿Erés Kakaroto?", "Jefe"]],
+    [["¡No puede ser! ¿Erés Kakaroto?", "dragon"]],
     [["No, no soy Kakaroto...mi nombre s GOKU!", "Jugador"]],
-    [["Jaja, pero mira nada más... me venciste...", "Jefe"]],
+    [["Jaja, pero mira nada más... me venciste...", "dragon"]],
     [["Sí, ahora quiero saber quién te envió?", "Jugador"]],
-    [["Pronto lo conocerás...", "Jefe"]],
+    [["Pronto lo conocerás...", "dragon"]],
     [["DIME! ¿Quién te envió?", "Jugador"]],
     [["Quién será el el villano detrás de esto? Lo sabremos, en el próximo capitulo", "Narrador"]]
   ]
